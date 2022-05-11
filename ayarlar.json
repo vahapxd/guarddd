@@ -1,0 +1,26 @@
+{
+    
+    
+    "botOwner":"728931818182541392",
+    "tacSahibi": "841620030482284564",
+    "botPrefix":".",
+    "botToken":"OTY1NjM4NDY0NDU0NDA2MjE1.GFCYZv.7boFtTygW6D1egfLl-W4Om5wS_Mls5VhX1MDyw",
+    "guildID":"961163891444953098",
+    "sesamk":"972946525326028861",
+    "altbaslık":"Yağmur 💙",
+    "logChannelID":"973981710997942313",
+    "channelGuard":true,
+    "roleGuard":true,
+    "serverGuard":true,
+    "botGuard":true,
+    "banGuard":true,
+    "kickGuard":true,
+    "whitelist":["728931818182541392", "841620030482284564", ""],
+    "boosterRole":"967151881929523230",
+    "jailRole":"972946378282106902",
+    "oynuyor":["Yağmur 💙","Yağmur 💙","Yağmur 💙","Yağmur 💙","Yağmur 💙","Yağmur 💙"],
+    "Sunucu": {"Sunucuadı": "EPOXY", "SunucuURL": "","Sunucuresmi": "","Sunucuafişi":""},
+    "Roller": {"Kurucu": "972946247818309672","Altkurucu": "972946250511052881","Ceo": "972946254369783878"}
+
+
+}
